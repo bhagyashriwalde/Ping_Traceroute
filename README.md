@@ -1,0 +1,1 @@
+# Shell-Script-to-get-Ping-and-Traceroute-output-of-Servers
